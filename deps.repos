@@ -1,0 +1,30 @@
+repositories:
+  graph_core:
+    type: git
+    url: https://github.com/JRL-CARI-CNR-UNIBS/graph_core
+    version: master
+
+  moveit_collision_checker:
+    type: git
+    url: https://github.com/JRL-CARI-CNR-UNIBS/moveit_collision_checker
+    version: master
+
+  graph_display:
+    type: git
+    url: https://github.com/JRL-CARI-CNR-UNIBS/graph_display
+    version: master
+
+  cnr_scene_manager:
+    type: git
+    url: https://github.com/JRL-CARI-CNR-UNIBS/cnr_scene_manager
+    version: master
+
+  cnr_tf_named_object_loader:
+    type: git
+    url: https://github.com/CNR-STIIMA-IRAS/cnr_tf_named_object_loader
+    version: master
+
+  subscription_notifier:
+    type: git
+    url: https://github.com/CNR-STIIMA-IRAS/subscription_notifier
+

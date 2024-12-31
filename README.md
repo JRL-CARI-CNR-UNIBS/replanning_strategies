@@ -1,4 +1,4 @@
-![](Documentation/logo_blue.png?raw=true)
+![](documentation/logo_blue.png?raw=true)
 
 ## Introduction
 **OpenMORE** contains a library of sampling-based path replanning algorithms. It develops a framework to manage robot's trajectory execution with online path replanning. It is based on ROS and [MoveIt](https://moveit.github.io/moveit_tutorials/) to get information about the environment and collision checking. Check [this paper](https://ieeexplore.ieee.org/abstract/document/10275365) for more information.
@@ -113,9 +113,9 @@ BibTex:
 
 ***
 
-![EC-H2020](Documentation/Sharework.png) [ShareWork webpage](https://sharework-project.eu/)
+![EC-H2020](documentation/Sharework.png) [ShareWork webpage](https://sharework-project.eu/)
 
-![EC-H2020](Documentation/flag_yellow.jpg)
+![EC-H2020](documentation/flag_yellow.jpg)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 820807.
 This website reflects only the author’s view and the European Commission is not responsible for any use that may be made of the information it contains.
